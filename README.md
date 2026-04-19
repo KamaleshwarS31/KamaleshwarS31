@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing Software Engineering  
+- 🎓 Pursuing Software Engineering from Vellore Institute of Technology, Vellore 
 - 💻 Building Real World Projects  
 - 📱 Becoming a Full Stack Flutter Developer  
 - 🤖 Interested in AI, Automation & Smart Systems  
@@ -101,9 +101,8 @@
 
 - 🎓 Student Management System  
 - 🚆 Railway Reservation System with Deadlock Prevention  
-- 🤖 AI Academic Research Assistant  
+- 🤖 AI Career Guidance System 
 - 🪖 IoT Smart Helmet for Bike Riders  
-- 📱 Flutter Full Stack Apps  
 
 ---
 
